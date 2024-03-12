@@ -44,3 +44,8 @@ Instruction for zeal portable build for mac os. You can obtain it for macos sono
 11. Copy Zeal.app on other computer or directory for linking libs into bundle.
   
 If your have any question, suggestion and e.t.c let me know. If will be requests I can detail this instruction.
+
+Result:
+
+
+![image](https://github.com/ant0nT/zeal-portable-build-macos/assets/30862396/89f39472-c4d6-4854-b3ff-71416a0c30ee)
